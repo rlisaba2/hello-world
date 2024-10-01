@@ -2,4 +2,4 @@
 [Ranz Lisaba]
 
 ## Assignment
-Assignment [1]: [Indicate the name and description of the current assignment]
+Assignment [1]: [Opening bank accounts for clients]
